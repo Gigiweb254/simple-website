@@ -1,0 +1,76 @@
+html{
+height: 100%;
+}
+
+body{
+    background-color: rgb(67, 65, 65);
+    background-image: url(images/orkun-orcan-tLGAOnl4p28-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+header{
+    height: 118px;
+    text-align: center;
+    
+    
+
+   
+}
+nav{
+    background-color: transparent;
+    text-decoration: none;
+    padding-top: 80px;
+    padding-bottom: 14px;
+    
+    }
+
+main{
+    
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-bottom: 50px;
+    }
+footer{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    
+}
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 240px;
+    padding-right: 240px;
+    
+}
+nav a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-decoration: none;
+
+}
+a{
+    color: white;
+}
+footer p{
+    color: white;
+    font-size:10px ;
+    text-align: center;
+
+}
